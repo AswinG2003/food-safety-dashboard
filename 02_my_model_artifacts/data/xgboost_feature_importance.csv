@@ -1,0 +1,57 @@
+feature,importance
+Inspection Type_canvass,0.07973159
+Results,0.05615705
+Violation_Count,0.04832996
+Historical_Failure_Rate,0.046884853
+Days_Since_Previous_Inspection,0.044408504
+Previous_Failure_Count,0.041792776
+Previous_Violation_Count,0.03848986
+Inspection Type_license,0.036346298
+Inspection_Year,0.028018476
+Geo_Grid_ID_42.0_-87.7,0.027981214
+Geo_Grid_ID_41.9_-87.6,0.026052563
+Compliant_Positive_Count,0.022769691
+Administrative_Count,0.020864569
+Geo_Grid_ID_42.0_-87.9,0.019481359
+Geo_Grid_ID_41.8_-87.6,0.018315755
+Inspection Type_complaint,0.018161096
+Hazard_Count,0.01751989
+Longitude,0.017333785
+Latitude,0.017207395
+Inspection Type_complaint re-inspection,0.017115017
+Geo_Grid_ID_41.7_-87.7,0.016971147
+Geo_Grid_ID_41.9_-87.7,0.015645163
+Previous_Result_pass,0.01453841
+Inspection Type_consultation,0.014322539
+Average_Violation_Score,0.013961321
+Geo_Grid_ID_41.8_-87.7,0.0139505025
+Inspection_Sequence,0.013838279
+Inspection Type_short form complaint,0.013781183
+Geo_Grid_ID_41.9_-87.8,0.012984189
+Geo_Grid_ID_42.0_-87.8,0.012977929
+Inspection Type_license re-inspection,0.012917884
+Geo_Grid_ID_41.7_-87.6,0.012825799
+Inspection Type_canvass re-inspection,0.012069471
+Previous_Result_fail,0.0120525295
+Geo_Grid_ID_41.7_-87.5,0.011873698
+Violation_Count_Change,0.011842542
+Risk,0.011817884
+Inspection_Month_sin,0.011532388
+Geo_Grid_ID_41.8_-87.8,0.011475936
+Inspection_Month_cos,0.011227522
+Inspection Type_tag removal,0.010849977
+Inspection_Day_cos,0.010819088
+Inspection Type_complaint-fire,0.009396084
+Geo_Grid_ID_42.0_-87.6,0.0089184735
+Inspection_Day_sin,0.0088865915
+Inspection Type_suspected food poisoning,0.008586986
+Inspection Type_license-task force,0.007905477
+Inspection Type_short form fire-complaint,0.007683586
+Inspection Type_suspected food poisoning re-inspection,0.0076835616
+Has_Previous_Inspection,0.007295014
+Inspection Type_recent inspection,0.006407113
+Previous_Result_no_previous_inspection,0.0
+Inspection Type_other/unknown,0.0
+Geo_Grid_ID_41.8_-87.5,0.0
+Geo_Grid_ID_41.6_-87.6,0.0
+Geo_Grid_ID_41.6_-87.5,0.0

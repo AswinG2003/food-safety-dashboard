@@ -1,0 +1,57 @@
+feature,importance
+Days_Since_Previous_Inspection,0.13380979979644442
+Longitude,0.07955390096018627
+Latitude,0.07711563853657048
+Results,0.07273949091280758
+Violation_Count,0.07057042460394722
+Historical_Failure_Rate,0.06719392306862257
+Inspection_Year,0.05950871669359909
+Previous_Violation_Count,0.045598254822899226
+Previous_Failure_Count,0.04225317195962726
+Average_Violation_Score,0.04114086735628049
+Inspection Type_canvass,0.03772157170820703
+Compliant_Positive_Count,0.0325018338310271
+Administrative_Count,0.030690185217983165
+Inspection_Sequence,0.028439196236675592
+Violation_Count_Change,0.0243146315725404
+Previous_Result_fail,0.02024794886130312
+Inspection_Month_sin,0.01998102176343188
+Inspection_Month_cos,0.01945609028876656
+Inspection_Day_sin,0.014151199473054777
+Inspection_Day_cos,0.01202641464717634
+Hazard_Count,0.01011438481926189
+Inspection Type_complaint,0.006437783405619603
+Inspection Type_license,0.006132191523731081
+Risk,0.004829281275059819
+Geo_Grid_ID_41.9_-87.7,0.004615255339917141
+Geo_Grid_ID_41.9_-87.6,0.0044565608215648865
+Previous_Result_pass,0.003980582562444417
+Geo_Grid_ID_42.0_-87.7,0.0037298970029736654
+Inspection Type_complaint re-inspection,0.003126526249151092
+Inspection Type_canvass re-inspection,0.0030928247119852035
+Inspection Type_short form complaint,0.0027582183072144793
+Geo_Grid_ID_41.8_-87.6,0.002664966999338398
+Geo_Grid_ID_41.8_-87.7,0.0023793193880066186
+Geo_Grid_ID_41.7_-87.7,0.002170420556030125
+Geo_Grid_ID_42.0_-87.8,0.0017623149007768095
+Geo_Grid_ID_41.9_-87.8,0.0013971100318545962
+Geo_Grid_ID_42.0_-87.9,0.0012499240579327408
+Geo_Grid_ID_41.7_-87.6,0.0012095457137100579
+Previous_Result_no_previous_inspection,0.001108581887908366
+Has_Previous_Inspection,0.0009832615306670572
+Inspection Type_license re-inspection,0.0009069866474543174
+Geo_Grid_ID_41.8_-87.8,0.0005475157026659024
+Inspection Type_suspected food poisoning,0.00043522753351499504
+Inspection Type_tag removal,0.0002593328166826154
+Inspection Type_license-task force,0.0002126876215718631
+Inspection Type_consultation,0.00012082737091873433
+Inspection Type_suspected food poisoning re-inspection,0.00010535446771094369
+Inspection Type_complaint-fire,8.249429968809945e-05
+Geo_Grid_ID_41.7_-87.5,6.597948164117142e-05
+Inspection Type_recent inspection,2.5805845406274917e-05
+Geo_Grid_ID_42.0_-87.6,1.9387982167710476e-05
+Inspection Type_other/unknown,5.166834278739542e-06
+Inspection Type_short form fire-complaint,0.0
+Geo_Grid_ID_41.8_-87.5,0.0
+Geo_Grid_ID_41.6_-87.6,0.0
+Geo_Grid_ID_41.6_-87.5,0.0

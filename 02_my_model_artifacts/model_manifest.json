@@ -1,0 +1,18 @@
+{
+  "task": "Predict failure (1) at the next inspection; 0 means pass",
+  "source_file": "C:\\Users\\HP\\Desktop\\food_inspection_new\\restaurant_feature_engineered_fixed.csv",
+  "encoded_feature_directory": "C:\\Users\\HP\\Desktop\\food_inspection_new\\model_building\\step05_output",
+  "feature_count": 56,
+  "fit_rows": 80597,
+  "calibration_rows": 20119,
+  "test_rows": 26772,
+  "priority_rows": 22329,
+  "failure_prevalence_test": 0.24320185268190647,
+  "calibration_cutoff": "2019-08-29",
+  "selected_model_by_calibration_pr_auc": "XGBoost + text blend (80/20)",
+  "metrics_file": "model_metrics_all.csv",
+  "priority_file": "restaurant_inspection_priority_list.csv",
+  "probability_note": "Platt/sigmoid calibration fit on a chronology-held-out calibration period. Estimates can drift and are not guarantees.",
+  "priority_tiers_note": "Tiers are percentile-based operational ranking buckets, not regulatory classifications.",
+  "test_set_selection_note": "Champion selected on inner calibration-period PR-AUC, not outer test performance."
+}

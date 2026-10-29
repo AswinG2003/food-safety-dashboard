@@ -179,3 +179,13 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Exclude the copied original app artifacts
+/03_working_app/artifacts/
+
+# Exclude local secrets and Python environments
+.env
+**/.env
+**/.streamlit/secrets.toml
+.venv/
+venv/
+__pycache__/

@@ -1,0 +1,10 @@
+Restaurant inspection probability and priority outputs
+
+Selected model by inner calibration-period PR-AUC: XGBoost + text blend (80/20)
+Train rows: 100,716; model-fit rows: 80,597; calibration rows: 20,119; outer test rows: 26,772; priority rows: 22,329
+Selected inner calibration cutoff: 2019-08-29
+
+Models: Random Forest, XGBoost, TF-IDF + Logistic Regression, RF/text 80/20 blend, XGBoost/text 80/20 blend.
+Metrics include PR-AUC/average precision, ROC-AUC, log loss, Brier score, ECE, accuracy, balanced accuracy, precision, recall/sensitivity, specificity, F1, F2, MCC, Cohen's kappa, confusion counts at threshold 0.50 and a calibration-period F1 threshold, plus top 1/5/10 percent failure rate/lift/failure capture.
+
+The probability list uses sigmoid-calibrated model scores. These are estimated risks, not certainty. Rows are the latest available inspection per restaurant in the supplied dataset; the latest available date may be old.
